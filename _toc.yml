@@ -8,7 +8,7 @@ chapters:
 - file: new_modular_programming
 - file: oop
 - file: new_classes
-- file: polymorphism
 - file: new_inheritance_composition
+- file: polymorphism
 - file: exercises
 
