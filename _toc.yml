@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: scripts
+- file: new_modular_programming
+- file: oop
+- file: new_classes
+- file: polymorphism
+- file: new_inheritance_composition
+- file: exercises
+
