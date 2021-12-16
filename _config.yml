@@ -10,7 +10,7 @@ logo: images/python-logo.svg
 execute:
   execute_notebooks: force
 repository:
-  url: https://github.com/edelahoz/modular_and_object_oriented_programming #Add source repository buttons
+  url: https://github.com/edelahoz/modular_and_object_oriented_programming/ #Add source repository buttons
   branch: main  # An optional branch, defaults to `master`
 #  path_to_book: path/to/your/book  # An optional path to your book, defaults to repo root
 
